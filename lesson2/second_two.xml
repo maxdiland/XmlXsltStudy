@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<books xmlns="http://brain47.com/schema/mySchema">
+	<book>
+		<name>Java 7- The Complete Reference - 8th Edition</name>
+		<author>Herbert Schildt</author>
+		<year>2012</year>
+		<publisher>Williams</publisher>
+	</book>
+	<book>
+		<name>Spring in Action. Third Edition</name>
+		<author>Craig Walls</author>
+		<year>2011</year>
+		<publisher>Manning</publisher>
+	</book>
+	<book>
+		<name>Learning SQL</name>
+		<author>Alan Beaulieu</author>
+		<year>2007</year>
+		<publisher>Symbol</publisher>
+	</book>
+</books>
